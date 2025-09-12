@@ -1,0 +1,10 @@
+// let leftbarimg = document.createElement("div")
+// sidebarheading.addEventListener("mouseenter",function(){
+//     leftbarimg.classList.add("leftbarimg")
+//     leftbar.appendChild(leftbarimg)
+//     leftbar.removeChild(leftbarh1)
+// })
+// sidebarheading.addEventListener("mouseleave",function(){
+//     leftbar.appendChild(leftbarh1)
+//     leftbar.removeChild(leftbarimg)
+// })

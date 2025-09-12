@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    background-color: red;
+}
+img{
+    width: 200px;
+    height: 200px;
+    /* border-radius: 50%; */
+    animation: tire 3s linear infinite;
+    clip-path: circle(50% at 50% 50%);
+}
+@keyframes tire {
+    from{transform: rotate(0deg);}
+    to{transform: rotate(405deg);}
+}
